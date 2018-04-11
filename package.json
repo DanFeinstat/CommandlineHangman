@@ -1,0 +1,24 @@
+{
+  "name": "CommandlineHangman",
+  "version": "1.0.0",
+  "description": "Hangman game for the command line build modularly using node.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanFeinstat/CommandlineHangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanFeinstat/CommandlineHangman/issues"
+  },
+  "homepage": "https://github.com/DanFeinstat/CommandlineHangman#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "request": "^2.85.0"
+  }
+}
